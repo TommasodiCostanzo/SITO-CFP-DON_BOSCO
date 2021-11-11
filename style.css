@@ -108,4 +108,29 @@
 }
 
 
+#Cards2{
+
+    color: white;
+    background-color: blue;
+    height: 650px;
+    font-family:  'Montserrat', sans-serif;
+    text-align: center;
+}
+
+#grigliacards2{
+
+    padding-top: 40px
+}
+
+#testosopracards2{
+
+    padding-top: 40px;
+}
+
+#mappa{
+
+    padding-top: 40px;
+}
+
+
 
