@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+
+#barra-iniziale{
+
+    background-color: blue;
+    text-align: right;
+    height: 30px;
+}
+
+
+#Home {
+
+    
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    padding-right: 10px;
+}
+
+#Chi-siamo{
+
+   
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    padding-right: 10px;
+}
+
+#Dove-siamo{
+    
+    
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    padding-right: 10px;
+}
+
+#News{
+
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    padding-right: 10px;
+}
+
+#Gallery{
+
+   
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    padding-right: 10px;
+}
+
+#Trasparenza{
+
+   
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    padding-right: 10px;
+}
+
+
+#Fake-navbar{
+
+    color: blue;
+    font-family:  'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+
+#IMMAGINE{
+    padding-top: 20px;
+}
+
+
+
+
+#CARROZZERIA{
+    padding-top: 60px;
+}
+
+#ELETTRICO{
+    padding-top: 60px;
+}
+
+#ENERGIE{
+    padding-top: 60px;
+}
+
+#INFORMATICO{
+    padding-top: 60px;
+}
+
+#MECCANICO{
+    padding-top: 60px;
+}
+
+#MOTORISTICO{
+    padding-top: 60px;
+}
+
+
+
+
+#CARDS{
+
+    padding-top: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
